@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/transaction-reliable.iml" filepath="$PROJECT_DIR$/transaction-reliable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-reliable-common/transaction-reliable-common.iml" filepath="$PROJECT_DIR$/transaction-reliable-common/transaction-reliable-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-reliable-core/transaction-reliable-core.iml" filepath="$PROJECT_DIR$/transaction-reliable-core/transaction-reliable-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-reliable-dependencies/transaction-reliable-dependencies.iml" filepath="$PROJECT_DIR$/transaction-reliable-dependencies/transaction-reliable-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-reliable-server/transaction-reliable-server.iml" filepath="$PROJECT_DIR$/transaction-reliable-server/transaction-reliable-server.iml" />
+    </modules>
+  </component>
+</project>
