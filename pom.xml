@@ -29,6 +29,7 @@
 		<module>transaction-reliable-core</module>
 		<module>transaction-reliable-server</module>
 		<module>transaction-reliable-dependencies</module>
+		<module>transaction-reliable-samples</module>
 	</modules>
 
 
