@@ -10,6 +10,11 @@
         <option value="$PROJECT_DIR$/transaction-reliable-server/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/transaction-reliable-samples/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectResources">
     <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/Downloads/mybatis-generator-config_1_0.dtd" />
